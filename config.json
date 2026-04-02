@@ -3,7 +3,7 @@
     "agent": {
       "model_name": "openai/gpt-oss-120b",
       "base_url": "https://integrate.api.nvidia.com/v1",
-      "api_key": "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",
+      "api_key": "nvapi-",
       "temperature": 0.1,
       "tool_timeout_sec": 3.0,
       "tool_retry_count": 1,
